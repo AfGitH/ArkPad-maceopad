@@ -12,3 +12,12 @@ It has 10 keys, each are different shortcuts that makes you do things on you com
 I design it using Blender, I'm more used to it, and I made it faster in Blender, Fusion makes confusion in my head, I'll stick to Blender, it can also make it precise too
 
 ## Firmware
+I used KMK for the firmware, it's in the ArkPad Firmware files
+
+## BOM
+
+-1x Seed Xiao RP2040 DIP
+-10x Cherry MX 1.00u
+-2 LED SK6812 MINI
+-3D printed Case (ArkPad Base & ArkPad top)
+-4x 3.4mm fastening screws
