@@ -16,8 +16,8 @@ I used KMK for the firmware, it's in the ArkPad Firmware files
 
 ## BOM
 
--1x Seed Xiao RP2040 DIP
--10x Cherry MX 1.00u
--2 LED SK6812 MINI
--3D printed Case (ArkPad Base & ArkPad top)
--4x 3.4mm fastening screws
+- 1x Seed Xiao RP2040 DIP
+- 10x Cherry MX 1.00u
+- 2x LED SK6812 MINI
+- 3D printed Case (ArkPad Base & ArkPad top)
+- 4x 3.4mm fastening screws
