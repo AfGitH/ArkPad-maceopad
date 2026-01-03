@@ -9,7 +9,8 @@ It has 10 keys, each are different shortcuts that makes you do things on you com
 ![Screenshot 2025-12-23 200209](https://github.com/user-attachments/assets/e1ab0003-1e89-4504-8829-6dbfe74d56d2)
 
 ## Case:
-I design it using Blender, I'm more used to it, and I made it faster in Blender, Fusion makes confusion in my head, I'll stick to Blender, it can also make it precise too
+I design it using Blender, I'm more used to it, and I made it faster in Blender, Fusion confuses me, and Blender has more features, and much easier to use, I also have much more experience on Blender than on Fusion, it can also be as precise.
+![Screenshot 2026-01-03 133455](https://github.com/user-attachments/assets/2cfd8016-357a-474d-b63e-02adbb9966f5)
 
 ## Firmware
 I used KMK for the firmware, it's in the ArkPad Firmware files
